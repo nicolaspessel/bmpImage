@@ -58,4 +58,4 @@ Room for improvement;
 
 
 ## Contact
-Created by [vituzm](https://github.com/vituzm) and [nicaolp](https://github.com/nicaolp) - feel free to contact us!
+Created by [vituzm](https://github.com/vituzm) and [nicolaslp](https://github.com/nicolaslp) - feel free to contact us!
