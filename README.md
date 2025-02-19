@@ -1,5 +1,5 @@
 # BMP Image with C++
-> This project consists in editing a [BMP image](https://en.wikipedia.org/wiki/BMP_file_format) to grayscale and displaying a piece of the image on a [Nokia Display](https://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf).
+This project consists in editing a [BMP image](https://en.wikipedia.org/wiki/BMP_file_format) to grayscale and displaying a piece of the image on a [Nokia Display](https://www.sparkfun.com/datasheets/LCD/Monochrome/Nokia5110.pdf).
 
 ## Table of Contents
 * [General Info](#general-information)
