@@ -8,16 +8,16 @@ This project consists in editing a BMP image to grayscale and displaying a piece
 * Photos
 * Contact
 
-## General Information
+### General Information
 - This project is based on a work for school
 - The names of the variables and comments were written in portuguese
 
-## Technologies Used
+### Technologies Used
 - Programming languages C and C++
 - Microcontroller STM32 NUCLEO F446RE
 - Nokia Display 5110
 
-## Usage
+### Usage
 The program has 3 user inputs and 2 outputs.
 
 Inputs
@@ -34,7 +34,7 @@ Observations
 2. After given the name of the image file, there is a table with useful information of the bmp header
 3. Download all files and include your bmp image and its name when executing `image_project.exe` as well
 
-## Photos
+### Photos
 - Ford Mustang Shelby gt500 (RGB extension)
 <img src="https://github.com/vituzm/BMP_image./assets/134985122/48714152-004a-4a21-8c04-eca6c08364d2" alt = "Ford Mustang Shelby gt500 4k" width="50%" height="20%"/>
 
@@ -52,4 +52,4 @@ Observations
 
 
 ## Contact
-Created by [vituzm](https://github.com/vituzm) and [nicaolp](https://github.com/nicolaspessel) - feel free to contact us!
+Created by [vituzm](https://github.com/vituzm) and [nicolaspessel](https://github.com/nicolaspessel) - feel free to contact us!
